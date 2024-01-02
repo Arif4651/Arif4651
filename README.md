@@ -1,10 +1,7 @@
-(https://media.licdn.com/dms/image/D5616AQGKFdL13HUxTw/profile-displaybackgroundimage-shrink_350_1400/0/1683565346931?e=1709769600&v=beta&t=A3Jd6hKOetP9CwUW7D0gXnwFYPlCsF-Alvx6vbi__sA)
 
 <h1 align="center">Hi 👋, I'm Arif Abdullah</h1>
 <h3 align="center">A passionate learner</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arif4651&label=Profile%20views&color=0e75b6&style=flat" alt="arif4651" /> </p>
-
+![                    Computer Science Undergrad Student](https://media.licdn.com/dms/image/D5616AQGKFdL13HUxTw/profile-displaybackgroundimage-shrink_350_1400/0/1683565346931?e=1709769600&v=beta&t=A3Jd6hKOetP9CwUW7D0gXnwFYPlCsF-Alvx6vbi__sA)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arif-abdullah-878044245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arif-abdullah-878044245/" height="30" width="40" /></a>
