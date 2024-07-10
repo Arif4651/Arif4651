@@ -16,4 +16,4 @@
 </div>
 <hr/>
 
- ---------------Also have working knowledge of JAVAfx and Scenebuilder with Intellij Idea-----------------
+
