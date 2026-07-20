@@ -1,4 +1,4 @@
-![                    Computer Science Undergrad Student]
+![                    Computer Science Undergrad Student](https://media.licdn.com/dms/image/D5616AQGKFdL13HUxTw/profile-displaybackgroundimage-shrink_350_1400/0/1683565346931?e=1709769600&v=beta&t=A3Jd6hKOetP9CwUW7D0gXnwFYPlCsF-Alvx6vbi__sA)
 <h1 align="center">Hi 👋, I'm Arif Abdullah</h1>
 <h3 align="center">A passionate learner</h3>
 
